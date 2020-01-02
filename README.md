@@ -14,6 +14,7 @@
 * [深度学习](https://www.youtube.com/playlist?list=PL4R4917X9BkFIiKDbZYLa8ChPbnYRw0hV)
 * [深度学习项目——人脸识别](https://www.youtube.com/playlist?list=PL0Kneloi6O0wjZ1di49z_F1ImToItcPI8)
 * [大数据实战课程——项目](https://www.youtube.com/playlist?list=PLHvvnQXjjcSxc15tNmHEHljUdh3nkJfd4)
+* [Convolutional Neural Networks for Visual Recognition CS231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 
 # Algorithm
