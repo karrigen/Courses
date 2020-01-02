@@ -12,8 +12,11 @@
 * [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
 * [python数据分析与机器学习实战](https://www.youtube.com/playlist?list=PLhXu26RzZZTwus4cNbPTcgXXH6oavT6EB)
 * [深度学习](https://www.youtube.com/playlist?list=PL4R4917X9BkFIiKDbZYLa8ChPbnYRw0hV)
+* [深度学习项目——人脸识别](https://www.youtube.com/playlist?list=PL0Kneloi6O0wjZ1di49z_F1ImToItcPI8)
+* [大数据实战课程——项目](https://www.youtube.com/playlist?list=PLHvvnQXjjcSxc15tNmHEHljUdh3nkJfd4)
 
 
 # Algorithm
 
 * [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+* [麦子学院-深度学习进阶-算法与应用](https://www.youtube.com/playlist?list=PLhXu26RzZZTzxRou9Yn2lVHRKkxuTBZYw)
