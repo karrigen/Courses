@@ -4,3 +4,6 @@
 * 
 
 # Deep Learning
+
+* [2017 Fall 台大電機 機器學習及其深層與結構化 by 
+Vivian ](https://www.youtube.com/playlist?list=PLOAQYZPRn2V72fqJMpMsO9B--NG_koLhD) 
