@@ -25,3 +25,8 @@
 邓俊辉](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about)
 * [数据结构（下） 清华大学 
 邓俊辉](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about)
+
+
+# Links
+
+* [大学模拟器](https://zhuanlan.zhihu.com/college-simulator)
