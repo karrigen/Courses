@@ -1,6 +1,6 @@
 # Machine Learning
 
-*  [机器学习基石 国立台湾大学 林轩田](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
+*  [机器学习 国立台湾大学 林轩田](https://www.youtube.com/user/hsuantien/playlists)
 * 
 
 # Deep Learning
