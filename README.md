@@ -20,3 +20,5 @@
 
 * [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 * [麦子学院-深度学习进阶-算法与应用](https://www.youtube.com/playlist?list=PLhXu26RzZZTzxRou9Yn2lVHRKkxuTBZYw)
+* [数据结构 清华大学 
+邓俊辉](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about)
